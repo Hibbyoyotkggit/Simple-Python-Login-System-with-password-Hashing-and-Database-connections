@@ -5,6 +5,7 @@ Libraries used:
 - sqlite3
 - hashlib
 
+My First Attempt at anything like this!
 Built for fun while having some spare time
 Some known issues/future improvements:
   - Haven't figured out comparing two hashes for making sure its the correct password when logging in yet
